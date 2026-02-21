@@ -4,4 +4,4 @@ Resolusi saya:
 - belajar c++
 - paham unity engine
 - lancar menggunakan figma
-- punya gim sendiri
+- punya gim hasil sendiri
